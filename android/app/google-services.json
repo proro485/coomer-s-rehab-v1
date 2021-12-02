@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "414302200839",
+    "firebase_url": "https://nofap-tracking-app-default-rtdb.firebaseio.com",
+    "project_id": "nofap-tracking-app",
+    "storage_bucket": "nofap-tracking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414302200839:android:3d8b54e1d2ef526af6f6a2",
+        "android_client_info": {
+          "package_name": "com.proro485.coomersrehab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414302200839-7i2ljuh8issg5e5f6oq8vqgkl1ig6ncc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proro485.coomersrehab",
+            "certificate_hash": "2d5369a1ba479675bcca03831f9b6693e72ee070"
+          }
+        },
+        {
+          "client_id": "414302200839-pkkbtkqkd47vn8bopstk8ocg2u6gdse8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proro485.coomersrehab",
+            "certificate_hash": "9645dab5e9df6fdf936ef7e3e1bb4d1970f80166"
+          }
+        },
+        {
+          "client_id": "414302200839-flavqg0uitb9ea5c8afs4c0202qge0nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VfiWHh-S8RknbpR6ycXYTeFsCQeiO_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414302200839-flavqg0uitb9ea5c8afs4c0202qge0nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
