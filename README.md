@@ -1,5 +1,7 @@
 # Coomer's Rehab : Nofap Tracker
 
+### Playstore Link : <a href="https://play.google.com/store/apps/details?id=com.proro485.coomersrehab">Coomer's Rehab</a>
+
 An app to track your Nofap journey, with features like daily image upload for motivation and realtime leaderboard.
 
 <img src="https://user-images.githubusercontent.com/72189840/150761276-d53483c8-0808-43ea-b2b8-9b417dc7617b.png" height="350"/>
