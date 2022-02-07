@@ -14,8 +14,9 @@ An app to track your Nofap journey, with features like daily image upload for mo
 ## Screenshots
 
 <p>
-  <img src="https://user-images.githubusercontent.com/72189840/150761303-59dcf27a-949e-4193-a1cd-6ea8f3585e78.png" width="300" height="550"/>
-  <img src="https://user-images.githubusercontent.com/72189840/150761306-c21400c2-be7a-4388-bbe8-babc845c322a.png" width="300" height="550"/>
-  <img src="https://user-images.githubusercontent.com/72189840/150761309-b8975eea-e967-42ab-84e1-febff2e6abe0.png" width="300" height="550"/>
-  <img src="https://user-images.githubusercontent.com/72189840/150761320-457be787-4798-4ef0-9929-c82dc2b8bbc6.png" width="300" height="550"/>
+  <img src="https://user-images.githubusercontent.com/72189840/150761303-59dcf27a-949e-4193-a1cd-6ea8f3585e78.png" width="300" height="650"/>
+  <img src="https://user-images.githubusercontent.com/72189840/150761306-c21400c2-be7a-4388-bbe8-babc845c322a.png" width="300" height="650"/>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/72189840/150761309-b8975eea-e967-42ab-84e1-febff2e6abe0.png" width="300" height="650"/>
+  <img src="https://user-images.githubusercontent.com/72189840/150761320-457be787-4798-4ef0-9929-c82dc2b8bbc6.png" width="300" height="650"/>
 </p>
